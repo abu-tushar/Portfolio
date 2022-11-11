@@ -283,12 +283,13 @@ h1 {
 /* Skills Section start */
 .skills-content>h2 {
     text-transform: uppercase;
-
 }
 
 .column-left {
     color: white;
+    
 }
+
 
 .skills {
     padding: 5%;
