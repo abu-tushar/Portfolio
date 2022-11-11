@@ -7,7 +7,7 @@
     transition: .2s linear;
 }
 
-/*  */
+
 body {
     margin: 0;
 }
@@ -22,7 +22,7 @@ h2 {
     text-align: center;
 }
 
-/*  */
+
 
 a {
     color: white;
@@ -240,7 +240,7 @@ h1 {
     width: 300px;
     height: 250px;
 }
-.my-project>h2 {
+.education>h2 {
     text-transform: uppercase;
 }
 
